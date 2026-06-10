@@ -1,0 +1,1 @@
+Cuando consulto la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados previamente. Los datos se guardan temporalmente en memoria mientras el servidor está encendido.
