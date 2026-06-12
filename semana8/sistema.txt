@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información del sistema operativo, la versión del kernel, la arquitectura y otros datos técnicos del equipo.
+
+Comando whoami:
+Muestra el nombre del usuario actual que está utilizando el sistema. En este caso fue: codespace.
+
+Importancia:
+Conocer la información del sistema ayuda a administrar servidores, verificar configuraciones, identificar usuarios y solucionar problemas técnicos.
