@@ -1,0 +1,11 @@
+Backlog priorizado - solución comunitaria / veeduría
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y que pueda ser revisada por el equipo.
+
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para hacer seguimiento oportuno.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para revisar el estado de cada caso.
+
+4. Como coordinador quiero clasificar los reportes por prioridad para atender primero los casos más urgentes.
+
+5. Como ciudadano quiero conocer el estado de mi reporte para saber si ya fue revisado o está pendiente.
